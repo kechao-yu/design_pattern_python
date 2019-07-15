@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # coding:utf8
 '''
-Factory Method
+Factory Method from github
 '''
 
 
