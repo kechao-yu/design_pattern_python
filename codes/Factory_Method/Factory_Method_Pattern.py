@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # coding:utf8
 '''
-Factory Method from github
+Factory Method from github change by pycharm
 '''
 
 
