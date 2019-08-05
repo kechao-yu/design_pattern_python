@@ -2,7 +2,7 @@
 # coding:utf8
 
 """
-    Builder
+    04_Builder
 """
 
 
@@ -20,7 +20,7 @@ class Director(object):
         return self.builder.building
 
 
-# Abstractor Builder
+# Abstractor 04_Builder
 class Builder(object):
     def __init__(self):
         self.building = None
@@ -29,7 +29,7 @@ class Builder(object):
         self.building = Building()
 
 
-# Concrete Builder
+# Concrete 04_Builder
 class BuilderHouse(Builder):
     def build_floor(self):
         self.building.floor = 'One'
